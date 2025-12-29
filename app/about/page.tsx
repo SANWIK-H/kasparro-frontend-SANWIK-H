@@ -6,7 +6,7 @@ import { Navigation } from '@/components/layout/Navigation';
 export default function AboutPage() {
   return (
     <div className="min-h-screen bg-white">
-      <Navigation variant="public" />
+      <Navigation />
       
       <main>
         <section className="py-20 bg-white">
